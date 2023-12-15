@@ -28,7 +28,7 @@ a {
 
 .navbar {
     background-color: grey;
-    padding: 1rem;
+    padding: 5rem;
     margin-bottom: 20px;
 }
 
@@ -60,6 +60,11 @@ a {
     color: #ffcc00;
 }
 .tableauPlaceholder {
-    border: 2px solid #333; /* Add a border around the Tableau visualization */
-    padding: 10px; /* Add some padding to the Tableau container for spacing */
+    border: 2px solid #333; 
+    padding: 10px;
+}
+.navbar {
+    background-image: url('https://images.pexels.com/photos/461940/pexels-photo-461940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-size: cover; 
+    background-position: center;
 }
